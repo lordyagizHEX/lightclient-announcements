@@ -2,22 +2,8 @@
   "announcements": [
     {
       "id": 1,
-      "title": "Light Client v2.0",
-      "message": "Yeni güncelleme yayınlandı! Hemen indirin.",
-      "date": "2026-08-03",
-      "priority": "high"
-    },
-    {
-      "id": 2,
-      "title": "Sunucu Bakımı",
-      "message": "Sunucular 01:00'de bakıma alınacaktır.",
-      "date": "2026-08-02",
-      "priority": "medium"
-    },
-    {
-      "id": 3,
       "title": "Yeni Özellik",
-      "message": "ESP ve Aim Assist eklendi.",
+      "message": "Aura elytratarget güncellendi.",
       "date": "2026-08-01",
       "priority": "low"
     }
