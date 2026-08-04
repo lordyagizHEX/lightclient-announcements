@@ -5,13 +5,13 @@
     "latest_version": "v1.6.0",
     "update_url": "https://github.com/lordyagizHEX/lightclient/releases/download/v1.6.0/lightclient.jar",
     "update_required": false,
-    "update_notes": "Yeni özellikler: Performans iyileştirmeleri, yeni ESP sistemleri",
+    "update_notes": "Yeni özellikler: modern bakım ekranı, premium ana menü, geliştirilmiş duyuru sistemi.",
     "maintenance_mode": true,
-    "maintenance_message": "🔧 Bakım çalışmaları sürüyor, modüller geçici olarak devre dışıdır.",
+    "maintenance_message": "🔧 Bakım çalışmaları sürüyor. Tüm modüller geçici olarak devre dışıdır.",
     "disabled_modules": [],
     "global_banner": {
       "active": true,
-      "message": "⚠️ BAKIM MODU AKTİF! Tüm modüller geçici olarak devre dışıdır.",
+      "message": "⚠️ BAKIM MODU AKTİF. Tüm modüller geçici olarak devre dışıdır.",
       "type": "error"
     }
   },
