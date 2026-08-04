@@ -10,7 +10,7 @@
     "maintenance_message": "🔧 Bakım çalışmaları sürüyor. Tüm modüller geçici olarak devre dışıdır.",
     "disabled_modules": [],
     "global_banner": {
-      "active": true,
+      "active": false,
       "message": "⚠️ BAKIM MODU AKTİF. Tüm modüller geçici olarak devre dışıdır.",
       "type": "error"
     }
