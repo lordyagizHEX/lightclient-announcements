@@ -1,11 +1,103 @@
 {
+  "client_metadata": {
+    "current_version": "v1.5.0",
+    "minimum_required_version": "v1.4.2",
+    "maintenance_mode": false,
+    "global_banner": {
+      "active": false,
+      "message": "⚠️ Sunucu bakım çalışmaları nedeniyle bazı modüller geçici olarak devre dışıdır.",
+      "type": "warning"
+    }
+  },
   "announcements": [
     {
-      "id": 1,
-      "title": "Yeni Özellik",
-      "message": "Buglar halledildi.",
+      "id": 105,
+      "slug": "v1.5-major-update",
+      "title": "Light Client v1.5 Büyük Güncelleme",
+      "category": "UPDATE",
+      "priority": "HIGH",
+      "date": "2026-08-04",
+      "author": "suriyeaskeri & lordyagiz_",
+      "popup_trigger": true,
+      "short_description": "Yeni nesil KillAura bypass sistemleri, modern glassmorphism arayüz yenilikleri ve performans optimizasyonları yayında!",
+      "patch_notes": [
+        {
+          "type": "ADDED",
+          "text": "Yeni modern dinamik ana menü ve cam efekti (Glassmorphism) eklendi."
+        },
+        {
+          "type": "ADDED",
+          "text": "GitHub üzerinden anlık çalışan gelişmiş duyuru ve bildirim merkezi entegre edildi."
+        },
+        {
+          "type": "IMPROVED",
+          "text": "Combat modüllerindeki gecikme süreleri (latency) minimum seviyeye indirildi."
+        },
+        {
+          "type": "FIXED",
+          "text": "Tam ekran geçişlerinde yaşanan çökme (crash) sorunu çözüldü."
+        }
+      ],
+      "action_buttons": [
+        {
+          "label": "İndir / Güncelle",
+          "style": "primary",
+          "url": "https://github.com/lordyagizHEX/lightclient"
+        },
+        {
+          "label": "Yama Notları",
+          "style": "secondary",
+          "url": "https://github.com/lordyagizHEX/lightclient/releases/tag/v1.5.0"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "slug": "security-hotfix",
+      "title": "Kritik Güvenlik ve Kararlılık Yaması",
+      "category": "HOTFIX",
+      "priority": "CRITICAL",
       "date": "2026-08-01",
-      "priority": "low"
+      "author": "lordyagiz_",
+      "popup_trigger": false,
+      "short_description": "Ani oyun kapanmalarına yol açan bellek sızıntısı giderildi. Tüm kullanıcıların güncellemesi şiddetle tavsiye edilir.",
+      "patch_notes": [
+        {
+          "type": "FIXED",
+          "text": "Bellek tüketimini artıran arka plan parçacık (particle) döngüsü optimize edildi."
+        }
+      ],
+      "action_buttons": [
+        {
+          "label": "Detayları Gör",
+          "style": "accent",
+          "url": "https://github.com/lordyagizHEX/lightclient/issues"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "slug": "community-config-event",
+      "title": "Topluluk Config Yarışması Başlıyor!",
+      "category": "EVENT",
+      "priority": "MEDIUM",
+      "date": "2026-07-28",
+      "author": "Light Team",
+      "popup_trigger": false,
+      "short_description": "En iyi PvP ve Render config'ini sen tasarla, Discord'da ödülü kap!",
+      "patch_notes": [
+        {
+          "type": "INFO",
+          "text": "Yarışma detayları ve katılım şartları Discord sunucumuzda duyuruldu."
+        }
+      ],
+      "action_buttons": [
+        {
+          "label": "Discord'a Katıl",
+          "style": "discord",
+          "url": "https://discord.gg/lightclient"
+        }
+      ]
     }
   ]
 }
