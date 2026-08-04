@@ -6,7 +6,7 @@
     "update_url": "https://github.com/lordyagizHEX/lightclient/releases/download/v1.6.0/lightclient.jar",
     "update_required": false,
     "update_notes": "Yeni özellikler: modern bakım ekranı, premium ana menü, geliştirilmiş duyuru sistemi.",
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "🔧 Bakım çalışmaları sürüyor. Tüm modüller geçici olarak devre dışıdır.",
     "disabled_modules": [],
     "global_banner": {
