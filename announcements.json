@@ -7,12 +7,12 @@
     "update_required": false,
     "update_notes": "Yeni özellikler: Performans iyileştirmeleri, yeni ESP sistemleri",
     "maintenance_mode": true,
-    "maintenance_message": "🔧 Bakım çalışmaları sürüyor, bazı modüller geçici olarak devre dışıdır.",
+    "maintenance_message": "🔧 Bakım çalışmaları sürüyor, modüller geçici olarak devre dışıdır.",
     "disabled_modules": [],
     "global_banner": {
       "active": true,
-      "message": "⚠️ Sunucu bakım çalışmaları nedeniyle bazı modüller geçici olarak devre dışıdır.",
-      "type": "warning"
+      "message": "⚠️ BAKIM MODU AKTİF! Tüm modüller geçici olarak devre dışıdır.",
+      "type": "error"
     }
   },
   "announcements": [
@@ -24,7 +24,7 @@
       "priority": "HIGH",
       "date": "2026-08-04",
       "author": "suriyeaskeri & lordyagiz_",
-      "popup_trigger": true,
+      "popup_trigger": false,
       "short_description": "Yeni nesil KillAura bypass sistemleri, modern glassmorphism arayüz yenilikleri ve performans optimizasyonları yayında!",
       "patch_notes": [
         {
