@@ -4,7 +4,7 @@
     "minimum_required_version": "v1.4.2",
     "maintenance_mode": false,
     "global_banner": {
-      "active": false,
+      "active": true,
       "message": "⚠️ Sunucu bakım çalışmaları nedeniyle bazı modüller geçici olarak devre dışıdır.",
       "type": "warning"
     }
@@ -59,7 +59,7 @@
       "priority": "CRITICAL",
       "date": "2026-08-01",
       "author": "lordyagiz_",
-      "popup_trigger": false,
+      "popup_trigger": true,
       "short_description": "Ani oyun kapanmalarına yol açan bellek sızıntısı giderildi. Tüm kullanıcıların güncellemesi şiddetle tavsiye edilir.",
       "patch_notes": [
         {
@@ -83,7 +83,7 @@
       "priority": "MEDIUM",
       "date": "2026-07-28",
       "author": "Light Team",
-      "popup_trigger": false,
+      "popup_trigger": tue,
       "short_description": "En iyi PvP ve Render config'ini sen tasarla, Discord'da ödülü kap!",
       "patch_notes": [
         {
