@@ -1,1 +1,34 @@
-
+{
+  "version": "2.0",
+  "last_updated": 1733529600,
+  "ranks": {
+    "lordyagiz": {
+      "rank": "OWNER",
+      "icon": "👑",
+      "color": "#FFD700",
+      "tag": "Developer",
+      "badges": ["⭐", "🔥"]
+    },
+    "ahmet123": {
+      "rank": "VIP",
+      "icon": "💎",
+      "color": "#32FF96",
+      "tag": "VIP"
+    },
+    "mehmet456": {
+      "rank": "MOD",
+      "icon": "🛡️",
+      "color": "#32C8FF",
+      "tag": "Moderator"
+    },
+    "ayse789": {
+      "rank": "MEMBER",
+      "icon": "⭐",
+      "color": "#C8C8C8",
+      "tag": ""
+    }
+  },
+  "default_rank": "MEMBER",
+  "signature": "rsa_imza_buraya_gelecek",
+  "timestamp": 1733529600
+}
