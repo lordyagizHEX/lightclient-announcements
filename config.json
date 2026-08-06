@@ -1,1 +1,14 @@
-
+{
+  "version": "1.0",
+  "last_updated": 1733529600,
+  "settings": {
+    "enable_rank_system": true,
+    "enable_protection": true,
+    "enable_announcements": true,
+    "debug_mode": false,
+    "auto_update": true,
+    "check_interval": 300
+  },
+  "signature": "rsa_imza_buraya_gelecek",
+  "timestamp": 1733529600
+}
