@@ -1,12 +1,12 @@
 {
   "version": "1.0",
   "last_updated": 1733529600,
-  "jar_hash": "a1b2c3d4e5f678901234567890abcdef1234567890abcdef1234567890abcdef",
+  "jar_hash": "3C12A05B816EC065492E7D63866A9DCC83CCDB7748425FCDAEAB1EDA33335DCF",
   "license_check": true,
   "maintenance": false,
   "maintenance_message": "⚠️ Bakım modu aktif! Lütfen daha sonra tekrar dene.",
-  "minimum_build": "1.7.0",
+  "minimum_build": "3C12A05B816EC065492E7D63866A9DCC83CCDB7748425FCDAEAB1EDA33335DCF",
   "protected": true,
-  "signature": "rsa_imza_buraya_gelecek",
+  "signature": "3C12A05B816EC065492E7D63866A9DCC83CCDB7748425FCDAEAB1EDA33335DCF",
   "timestamp": 1733529600
 }
